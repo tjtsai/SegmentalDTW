@@ -14,3 +14,8 @@ Simply clone the virtual environment and run the jupyter notebooks in order.  Be
 ## Citation
 
 TJ Tsai. "Segmental DTW: A Parallelizable Alternative to Dynamic Time Warping" in Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021, pp. 106-110.
+
+
+## Acknowledgments
+
+This material is based upon work supported by the National Science Foundation under Grant No. 1948531.  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
